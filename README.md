@@ -9,7 +9,7 @@ This project aims to model a a two-strain microbial consortia using the open-sou
 ## Dependencies 
 
 - <a href="http://depts.washington.edu/soslab/gro/download.php" title="gro">gro beta.4</a>
-- <a href="https://cran.r-project.org/bin/windows/base/" title="gro">R programming language</a>
+- <a href="https://cran.r-project.org/" title="gro">R programming language</a>
 
 ## Running this project locally
 
