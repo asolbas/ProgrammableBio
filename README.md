@@ -18,6 +18,14 @@ This project aims to model a a two-strain microbial consortia using the open-sou
 3. Open one of the `.gro` simulation files 
 4. Run the simulation
 
+## Simulation files
+
+There are 4 simulation files, one for each simulation performed for the project. The function used are the same, but some parameters such as the ccdB synthesis ratio or the initial number of cells vary from file to file to achieve different population behaviors: 
+
+- **Stability**: `cooperation_data_stable.gro` and `cooperation_data.gro` files. 
+- **Different density ratio between the two members of the community**: `cooperation_data_differentRatio.gro` file.
+- **Extinction of one strain**: `cooperation_data_extinction.gro`
+
 ## Simulated data
 
 The data collected in the 4 simulations can be found in the `Data` folder contained in this respository. The `results.R` script can be used to generate plots representing the number of cells of each strain over the simulated time. 
