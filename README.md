@@ -11,3 +11,9 @@ This project aims to model a a two-population microbial consortia using the open
 - <a href="http://depts.washington.edu/soslab/gro/download.php" title="gro">gro beta.4</a>
 - <a href="https://cran.r-project.org/bin/windows/base/" title="gro">R programming language</a>
 
+## Running this project locally
+
+1. Clone this project locally
+2. Execute `gro.exe` file
+3. Open one of the simulation files
+4. Run the simulation
