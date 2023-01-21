@@ -15,7 +15,7 @@ This project aims to model a a two-strain microbial consortia using the open-sou
 
 1. Clone this project locally
 2. Execute `gro.exe` file
-3. Open one of the simulation files (they are those with the `.gro` extension)
+3. Open one of the `.gro` simulation files 
 4. Run the simulation
 
 ## Simulated data
