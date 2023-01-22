@@ -29,3 +29,5 @@ There are 4 simulation files, one for each simulation performed for the project.
 ## Simulated data
 
 The data collected in the 4 simulations can be found in the `Data` folder contained in this respository. The `results.R` script can be used to generate plots representing the number of cells of each strain over the simulated time. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
